@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373094866805",
+    "project_id": "gez-dostum-blog",
+    "storage_bucket": "gez-dostum-blog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373094866805:android:aa28564d49fc002c813d3c",
+        "android_client_info": {
+          "package_name": "com.example.gezdostumblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373094866805-k8euj4p1gbt6n04i3bg06e2r0nqj4q0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gezdostumblog",
+            "certificate_hash": "18cdb1ec8b4903cc8386885f99d4a3559117779c"
+          }
+        },
+        {
+          "client_id": "373094866805-mgjsrnldbm6eekmsv034fp39aus5cd8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6JnT0LmYuzMAMt2-gvFdPAKnR-LZ1x3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373094866805-mgjsrnldbm6eekmsv034fp39aus5cd8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
